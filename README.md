@@ -3,9 +3,6 @@
 ### Overview:
 This project demonstrates how to deploy a React application to AWS Elastic Beanstalk using a complete CI/CD workflow with GitHub Actions. It utilizes Docker and Docker Compose for building, testing, and deploying the application. The deployment includes NGINX configuration and secure handling of secret keys.
 
-### Production Website:
-[Visit the production website here](http://docker-react-env.eba-z2cjzs3b.us-east-1.elasticbeanstalk.com)
-
 ### Features:
 - Automated CI/CD pipeline with GitHub Actions
 - Dockerized React application
